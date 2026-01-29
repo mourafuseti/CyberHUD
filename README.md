@@ -24,10 +24,9 @@ Estudante de Defesa Cibernetica no Polo Estacio Piumhi MG . Formação tecnica e
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/mourafuseti">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mourafuseti&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Estatísticas do GitHub de Leonardo" />
-</a>
-<br><br><br><br><br><br><br><br><br>
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mourafuseti&show_icons=true&theme=tokyonight&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
+</p>
 
 
 # 🦾 CyberHUD - Visualização Computacional para Defesa Cibernética
