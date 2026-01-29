@@ -29,7 +29,7 @@ Este projeto implementa uma interface de **Realidade Aumentada (AR)** inspirada 
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/mourafuseti/Vis-o-computacional.git
+git clone https://github.com/mourafuseti/CyberHUD.git
 cd cyber-hud
 
 ```
