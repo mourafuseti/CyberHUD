@@ -22,11 +22,12 @@ Estudante de Defesa Cibernetica no Polo Estacio Piumhi MG . Formação tecnica e
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mourafuseti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
-</p>
+<a href="https://github.com/mourafuseti">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mourafuseti&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Estatísticas do GitHub de Leonardo" />
+</a>
+<br><br><br><br><br><br><br><br><br>
 
 
 # 🦾 CyberHUD - Visualização Computacional para Defesa Cibernética
